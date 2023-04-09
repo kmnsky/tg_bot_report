@@ -24,15 +24,15 @@ To use this script, you will need to create a Telegram bot and obtain its API to
 
 ```
 [TELEGRAM]
-API_TOKEN = YOUR_TELEGRAM_BOT_API_TOKEN
+token = YOUR_TELEGRAM_BOT_API_TOKEN
 
 [FBTOOL]
-EMAIL = YOUR_EMAIL
-PASSWORD = YOUR_PASSWORD
+username = YOUR_EMAIL
+password = YOUR_PASSWORD
 
 [KEITARO]
-EMAIL = YOUR_FACEBOOK_EMAIL
-PASSWORD = YOUR_PASSWORD
+username = YOUR_FACEBOOK_EMAIL
+password = YOUR_PASSWORD
 ```
 
 
