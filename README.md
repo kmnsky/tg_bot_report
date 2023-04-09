@@ -22,7 +22,7 @@ You will also need to have the Chrome browser installed on your machine, as the 
 
 To use this script, you will need to create a Telegram bot and obtain its API token from the BotFather. You will also need to create a config.ini file with the following contents:
 
-'''
+```
 [TELEGRAM]
 API_TOKEN = YOUR_TELEGRAM_BOT_API_TOKEN
 
@@ -33,16 +33,16 @@ PASSWORD = YOUR_PASSWORD
 [KEITARO]
 EMAIL = YOUR_FACEBOOK_EMAIL
 PASSWORD = YOUR_PASSWORD
-'''
+```
 
 
 Replace the placeholders with your own information.
 
 Once you have created the config.ini file and installed the required libraries, you can run the script:
 
-'''
+```
 python telegram_bot.py
-'''
+```
 
 The script will start the Telegram bot. Users can send the bot commands to generate reports from the FBTool and Keitaro trackers.
 
