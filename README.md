@@ -1,3 +1,5 @@
+![alt text](https://blog.bismart.com/hs-fs/hubfs/los-10-mejores-bots-disponibles-en-Internet.jpg?width=5184&name=los-10-mejores-bots-disponibles-en-Internet.jpg)
+
 # Telegram Bot for Generating Reports from Fbtool and Keitaro trackers
 
 This is a Python script that creates a Telegram bot using the aiogram library. The bot can generate three types of reports from the FBTool and Keitaro trackers: general information on advertising campaigns, daily conversions, and overall performance metrics.
