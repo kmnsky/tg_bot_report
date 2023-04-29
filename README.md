@@ -1,4 +1,4 @@
-![alt text](https://blog.bismart.com/hs-fs/hubfs/los-10-mejores-bots-disponibles-en-Internet.jpg?width=5184&name=los-10-mejores-bots-disponibles-en-Internet.jpg)
+![alt text](https://images.ctfassets.net/y6oq7udscnj8/5O3S2tFTAOuPtwnKWRvM6t/d003c6a5952d4387f5840db346acd25a/Mailgun-Validation__1_.png?w=1285&h=626&q=50&fm=png)
 
 # Telegram Bot for Generating Reports from Fbtool and Keitaro trackers
 
